@@ -1,0 +1,10 @@
+.env
+node_modules
+.vscode
+.package-lock.json
+package-lock.json
+.yarn.lock
+yarn.lock
+dist
+media
+.idea
